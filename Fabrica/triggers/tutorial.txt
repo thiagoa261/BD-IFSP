@@ -1,0 +1,5 @@
+FOR - junto com a ação
+
+AFTER - depois de a ação ocorrer
+
+INSTEAD OF - no ugar da ação
